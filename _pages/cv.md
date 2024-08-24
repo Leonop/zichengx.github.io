@@ -9,37 +9,62 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
+* **Ph.D. in Finance** (Support Major: Information Systems), University of South Florida, 2024
+* **M.S. in Business Analytics & Information Systems**, University of South Florida, 2019
+* **M.S. in Finance** (Minor: Business Analytics & Information Systems), University of South Florida, 2018
+* **B.S. in Electrical Engineering**, Wuhan University of Science and Technology, 2014
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Academic Experience
+### Visiting Assistant Professor
+**University of Arkansas, Fayetteville, AR**  
+*Aug 2024 - Present*  
+* Duties include teaching FINN36003 Corporate Finance (3 Sections).
+* Supervisor: Alexey Markov
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+### Instructor
+**University of South Florida, Tampa, FL**  
+*Jan 2022 - Aug 2024*  
+* Duties include teaching undergraduate students in various subjects:
+  * FIN 4461, Summer 2024: Financial Statement Analysis (Teaching Evaluation: Overall Grade 4.5/5.0)
+  * FIN 4504, Spring 2024: Principles of Investments (Teaching Evaluation: Overall Grade 4.4/5.0)
+  * FIN 3403, Spring 2023: Principles of Finance
+  * FIN 4414, Fall 2022: Advanced Corporate Finance
+  * FIN 3403, Fall 2022: Principles of Finance
+  * FIN 4461, Spring 2022: Financial Statement Analysis
+* Supervisor: Jared Williams
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+### Research Assistant
+**University of South Florida, Tampa, FL**  
+*Jan 2019 - Dec 2021*  
+* Duties included using RPA and Scrapy techniques to collect analysts' conference activities from "thefly.com". The work was published in the Journal of Finance in 2022.
+* Supervisor: Daniel Bradley
+
+### Teaching Assistant
+**University of South Florida, Tampa, FL**  
+*Jan 2017 - Jan 2019*  
+* Duties included grading assignments, exams, and providing constructive feedback.
+* Supervisor: Jianping Qi
+
+## Skills
+* **Problem Solving**: Strong analytical and critical thinking abilities to tackle complex issues.
+* **Coding**:
+  * **Python**: Proficient in data analysis, scripting, and automation.
+  * **Stata**: Experienced in statistical analysis and econometrics.
+  * **C++**: Skilled in object-oriented programming and algorithm development.
+* **Cloud Computing with Big Data**: Hands-on experience with cloud platforms and big data technologies.
+* **Machine Learning/Deep Learning**: Knowledgeable in building and deploying machine learning models.
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Problem Solving**: Strong analytical and critical thinking abilities to tackle complex issues.
+* **Coding**:
+  * **Python**: Proficient in data analysis, scripting, and automation.
+  * **Stata**: Experienced in statistical analysis and econometrics.
+  * **C++**: Skilled in object-oriented programming and algorithm development.
+* **Cloud Computing with Big Data**: Hands-on experience with cloud platforms and big data technologies.
+* **Machine Learning/Deep Learning**: Knowledgeable in building and deploying machine learning models.
+<br>
 
 Publications
 ======
